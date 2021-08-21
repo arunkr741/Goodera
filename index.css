@@ -207,3 +207,35 @@ color: #FFFFFF;
     top: 453px;
     border: 1px solid red;
 }
+.ExecutiveProducer{
+    position: absolute;
+    width: 229px;
+    height: 36px;
+    left: 345px;
+    top: 478px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.dummy{
+    position: absolute;
+width: 336px;
+height: 63px;
+left: 346px;
+top: 517px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+
+color: #7B7B7B;
+}
